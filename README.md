@@ -1,1 +1,1 @@
-first project repository
+creating the first directory
